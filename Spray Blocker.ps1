@@ -1,3 +1,6 @@
+# Name Window
+$host.UI.RawUI.WindowTitle = "Spray Blocker"
+
 # Define the path to the config file
 $configFilePath = "./SprayBlockerConfig.txt"
 
