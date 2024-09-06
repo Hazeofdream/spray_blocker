@@ -7,3 +7,15 @@ This was made for Sunrust in particular but it can work for any source game that
 
 # Compiling
 This is originally a powershell script, but that's ugly and wont run on anyones systems without enabling locally unsigned scripts, So i convert it to an executable using (Win-PS2EXE)[github.com/MScholtes/Win-PS2EXE]
+
+# Usage
+Click this [![downloads-shield]][releases-link] button for the neccessary release file
+
+Run the executable, The steps are automated for you.
+
+# Note
+Make sure the generated config file is in the same directory as the executable or you will have to repeat the steps.
+
+<!-- MARKDOWN LINKS -->
+[downloads-shield]: https://img.shields.io/github/downloads/Hazeofdream/spray_blocker/total?style=flat-square
+[releases-link]: https://github.com/Hazeofdream/spray_blocker/releases/download/Stable/Spray.Blocker.exe
