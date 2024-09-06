@@ -18,4 +18,4 @@ Make sure the generated config file is in the same directory as the executable o
 
 <!-- MARKDOWN LINKS -->
 [downloads-shield]: https://img.shields.io/github/downloads/Hazeofdream/spray_blocker/total?style=flat-square
-[releases-link]: https://github.com/Hazeofdream/spray_blocker/releases/download/v2.0.0/Spray.Blocker.exe
+[releases-link]: https://github.com/Hazeofdream/spray_blocker/releases/download/v3.0.0/Spray.Blocker.exe
