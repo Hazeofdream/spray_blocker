@@ -19,7 +19,6 @@ if (-Not (Test-Path -Path $configFilePath)) {
     $url = $config[0].Trim()
     $folderPath = $config[1].Trim()
     Write-Output "Spray Blocker is monitoring Sprays..."
-    continue
 }
 
 $timer = [System.Diagnostics.Stopwatch]::StartNew()
